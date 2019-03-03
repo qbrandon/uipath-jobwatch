@@ -1,0 +1,11 @@
+{
+  "name": "devcom-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "uipath-orchestrator": "1.0.3",
+    "uipath-webhooks": "0.1.0",
+    "nodemailer": "5.1.1",
+    "csv-parse": "4.3.3"
+  }
+}

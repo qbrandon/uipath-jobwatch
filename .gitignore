@@ -1,0 +1,4 @@
+.idea
+local_*
+node_modules
+package-lock.json
